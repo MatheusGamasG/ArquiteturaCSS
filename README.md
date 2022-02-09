@@ -1,2 +1,2 @@
 # arquitetura-css
-curso de arquitetura da Alura. 
+Estudando Atomic Design e BEMCSS
